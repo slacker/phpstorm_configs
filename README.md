@@ -1,0 +1,1 @@
+This is my custom config settings for the PHPStorm IDE.
